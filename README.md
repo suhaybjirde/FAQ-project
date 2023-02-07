@@ -8,8 +8,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-card-8vYa6Tlogt)
+- Live Site URL: [Add live site URL here](https://faqhd.netlify.app)
 
 
 ### Built with
@@ -23,6 +23,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Facebook - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/suhaybjirde)
+- Facebook - [@yourusername](https://www.facebook.com/profile.php?id=100087769545110)
 
