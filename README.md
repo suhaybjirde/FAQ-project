@@ -23,6 +23,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/suhaybjirde)
-- Facebook - [@yourusername](https://www.facebook.com/profile.php?id=100087769545110)
+- Frontend Mentor - [@suhaybjirde](https://www.frontendmentor.io/profile/suhaybjirde)
+- Facebook - [@suhaybjirde](https://www.facebook.com/profile.php?id=100087769545110)
 
